@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+.form{
+    margin-top: 20px;
+    text-color: 0xF00;
+}
+#content{
+    width : 70%
+}
+td{
+    text-align: center;
+    padding: 5px;
+    text-color: 0xF00;
+}
